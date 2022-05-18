@@ -16,6 +16,8 @@ Our team decided to develop a system to overcome the problems that many beginner
 Query language using MySQL.
 
 
-****IMPORTANT****
 
+TO DOWNLOAD MySQL-Tutor: 
+****IMPORTANT****
 This application need MySQL tool for the processing of the queries written in this application. 
+
