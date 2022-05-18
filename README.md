@@ -17,7 +17,7 @@ Query language using MySQL.
 
 
 
-TO DOWNLOAD MySQL-Tutor: 
-****IMPORTANT****
+TO DOWNLOAD MySQL-Tutor(Here is the ZIP file):  https://drive.google.com/file/d/1g8B8-g1YAhDl43P17MPcn6s9vpBLi2Mo/view?usp=sharing
+***IMPORTANT***
 This application need MySQL tool for the processing of the queries written in this application. 
 
